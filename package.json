@@ -1,7 +1,6 @@
 {
   "name": "vite-starter",
   "homepage": "https://deodaniel.github.io/Passionfruit/",
-  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
