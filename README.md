@@ -1,6 +1,21 @@
-# Passionfruit E-commerce Website
+<p align="center">
+  <img src="./public/passion-fruit-1.svg" alt="Passionfruit Logo" width="150"/>
+</p>
 
-A modern, responsive e-commerce website for electronic products and personal devices built with semantic HTML5, native CSS3, and vanilla JavaScript.
+<h1 align="center">Passionfruit</h1>
+
+<p align="center">
+  <strong>A modern, responsive e-commerce website for electronic products and personal devices built with semantic HTML5, native CSS3, and vanilla JavaScript.</strong>
+  <br />
+  <br />
+  <a href="https://deodaniel.github.io/Passionfruit"><strong>View Live Demo »</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Website Status">
+</p>
+
+---
 
 ## 🚀 Features
 
